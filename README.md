@@ -12,7 +12,7 @@ Copy `config.json.example` to `config.json` and fill in the `session_token` valu
 
 ## Usage
 
-Run `chatgpt.py`, and wait 2 seconds before starting the conversation (this is to normalise ambient noise). 
+Run `chatgpt.py`, and wait 2 seconds before starting the conversation (this is to normalise ambient noise). You can keep responding to ChatGPT, it's all 1 "conversation". 
 
 ## Next steps
 
