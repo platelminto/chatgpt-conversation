@@ -1,0 +1,4 @@
+{
+    "Authorization": "<leave this as whatever - it will get replaced>",
+    "session_token": "<insert token here>"
+}
