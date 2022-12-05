@@ -10,9 +10,14 @@ Have a conversation with ChatGPT using your voice, and have it talk back.
 
 Copy `config.json.example` to `config.json` and fill in the `session_token` value following the guide [here](https://github.com/acheong08/ChatGPT).
 
+## Usage
+
+Run `chatgpt.py`, and wait 2 seconds before starting the conversation (this is to normalise ambient noise). 
+
 ## Next steps
 
 - [ ] Cut-off ChatGPT as it's speaking if you decide to interrupt.
+- [ ] Silence PyAudio errors.
 - [ ] Remove common, useless end phrases from ChatGPT ("I am an online LLM...", etc.).
 - [ ] Make this as a web-app (better text-to-speech, universal):
   - [ ] Create interface
