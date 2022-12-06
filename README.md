@@ -1,10 +1,16 @@
 # chatgpt-conversation
 Have a conversation with ChatGPT using your voice, and have it talk back.
 
-## Requirements (Linux)
+## Requirements (Ubuntu)
 
 - `espeak`
 - `ffmpeg`
+- `portaudio19-dev`
+- `python3-pyaudio`
+
+To install all of them:
+
+`sudo apt install portaudio19-dev python3-pyaudio ffmpeg espeak`
 
 ## Installation
 
